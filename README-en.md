@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: post
 title: "throwaway game"
 permalink: /en
 ---
