@@ -1,5 +1,5 @@
 ## 下载
-##### Update Beta
+### Update Beta
 [Patch 0](https://github.com/L1ttelY/throwaway_game_release/releases/download/U%CE%B2P0/throwaway_game.zip)
 ## 最新展示视频
 <iframe src="//player.bilibili.com/player.html?aid=753480172&bvid=BV15k4y1z7qo&cid=199044983&page=1" scrolling="no" border="0" frameborder="no" framespacing="0" allowfullscreen="true"> </iframe>
